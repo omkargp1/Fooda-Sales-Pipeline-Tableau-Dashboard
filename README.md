@@ -42,4 +42,4 @@ The project covers an end-to-end SQL analytics pipeline, spanning data cleaning,
 
 ## 🔗 Links & Resources
 
-* **Tableau Public:** [Retail Sales Analysis on Tableau Publich](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/Fooda_Sales_Pipeline_Health_17928104049670/h_3)
+* **Tableau Public:** [Retail Sales Analysis on Tableau Public](https://public.tableau.com/app/profile/omkar.pardeshi6052/viz/Fooda_Sales_Pipeline_Health_17928104049670/h_3)
